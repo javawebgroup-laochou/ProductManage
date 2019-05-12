@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="C3p0-Demo:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/C3p0_Demo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="C3p0-Demo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="C3p0-Demo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
